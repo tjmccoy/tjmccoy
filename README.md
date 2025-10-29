@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjmccoy
 - 👀 I’m interested in AI/ML in software
-- 🌱 I’m currently learning CUDA
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: tyjmccoy@outlook.com
 
 <!---
