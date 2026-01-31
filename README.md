@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjmccoy
 - 👀 I’m interested in AI/ML in software
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning blockchain development
 - 📫 How to reach me: tyjmccoy@outlook.com
 
 <!---
